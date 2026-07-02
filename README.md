@@ -1,4 +1,3 @@
-# paste the full README content here
 # 🏥 SOAP Copilot — AMD MI300X
 
 > AI-powered clinical documentation using Llama 3.3 70B on AMD MI300X (192GB HBM3). Paste a doctor-patient conversation, get a structured SOAP note, ICD-10 codes, and a plain-language patient summary in seconds.
